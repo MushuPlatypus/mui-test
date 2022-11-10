@@ -1,0 +1,97 @@
+@font-face {
+    font-family: 'icomoon';
+    src:    url('../Icomoon-fonts/icomoon.eot?e9nsoa');
+    src:    url('../Icomoon-fonts/icomoon.eot?e9nsoa#iefix') format('embedded-opentype'),
+        url('../Icomoon-fonts/icomoon.ttf?e9nsoa') format('truetype'),
+        url('../Icomoon-fonts/icomoon.woff?e9nsoa') format('woff'),
+        url('../Icomoon-fonts/icomoon.svg?e9nsoa#icomoon') format('svg');
+    font-weight: normal;
+	font-style: normal;
+	font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-editIcon:before {
+    content: "\e900";
+}
+.icon-menu:before {
+    content: "\e610";
+}
+.icon-basket:before {
+    content: "\e600";
+}
+.icon-location:before {
+    content: "\e601";
+}
+.icon-pdf:before {
+    content: "\e602";
+}
+.icon-link:before {
+    content: "\e603";
+}
+.icon-print:before {
+    content: "\e604";
+}
+.icon-angle-left:before {
+    content: "\e605";
+}
+.icon-angle-right:before {
+    content: "\e606";
+}
+.icon-angle-down:before {
+    content: "\e607";
+}
+.icon-angle-up:before {
+    content: "\e608";
+}
+.icon-arrow-left:before {
+    content: "\e609";
+}
+.icon-arrow-right:before {
+    content: "\e60a";
+}
+.icon-arrow-down:before {
+    content: "\e60b";
+}
+.icon-arrow-up:before {
+    content: "\e60c";
+}
+.icon-minus:before {
+    content: "\e60d";
+}
+.icon-plus:before {
+    content: "\e60e";
+}
+.icon-close:before {
+    content: "\e60f";
+}
+.icon-facebook:before {
+    content: "\e499";
+}
+.icon-instagram:before {
+    content: "\e49c";
+}
+.icon-twitter:before {
+    content: "\e49d";
+}
+.icon-youtube:before {
+    content: "\e4a3";
+}
+.icon-none:before {
+    content: "\e079";
+}
+
